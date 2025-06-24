@@ -10,3 +10,5 @@ print("Hello World")
 input("What is the weather?")
 #Hello!
 str(8) + "dollars"
+if temperature >70:
+  print("Wear a shirt and shorts")
